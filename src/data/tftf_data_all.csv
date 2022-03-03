@@ -1,0 +1,183 @@
+Title,Description,Deck
+Prompt Placeholder,"In a *x* type of future, a future in which *y* has happened,",Arc
+Growth,"In a 'growth' future, in which 'progress' has continued,",Arc
+Collapse,"In a 'collapse' future, in which society as we know it has come apart,",Arc
+Discipline,"In a 'discipline' future, in which order is deliberately coordinated or imposed,",Arc
+Transformation,"In a 'transformation' future, in which a profound historical evolution has occurred,",Arc
+*something*,,Object
+wildcard,artifact of your own choice,Object
+face masks,wpws,Object
+tool,wpws,Object
+advertisement,,Object
+artwork,,Object
+beverage,,Object
+blanket,,Object
+book,,Object
+bottle,,Object
+box,,Object
+brochure,,Object
+building,,Object
+candy,,Object
+carpet,,Object
+clothing,,Object
+corporation,,Object
+curtains,,Object
+device,,Object
+document,,Object
+event,,Object
+festival,,Object
+flag,,Object
+game,,Object
+gift,,Object
+hat,,Object
+headline,,Object
+implant,,Object
+instrument,,Object
+jacket,,Object
+jewelry,,Object
+kit,,Object
+law,,Object
+logo,,Object
+lotion,,Object
+machine,,Object
+magazine cover,,Object
+map,,Object
+mask,,Object
+military uniform,,Object
+monument,,Object
+overalls,,Object
+pants,,Object
+passport,,Object
+pill,,Object
+plant,,Object
+postcard,,Object
+poster,,Object
+product,,Object
+prosthetic,,Object
+public service announcement,,Object
+raincoat,,Object
+relic,,Object
+ritual,,Object
+rug,,Object
+scarf,,Object
+scrubs,,Object
+shirt,,Object
+shoes,,Object
+show,,Object
+slogan,,Object
+snack,,Object
+socks,,Object
+song,,Object
+souvenir,,Object
+spacesuit,,Object
+statue,,Object
+sticker,,Object
+symbol,,Object
+t-shirt,,Object
+tattoo,,Object
+tool,,Object
+toy,,Object
+underwear,,Object
+uniform,,Object
+vehicle,,Object
+video,,Object
+weapon,,Object
+work uniform,,Object
+album cover,LC add,Object
+algorithm,LC add,Object
+typeface,LC add,Object
+wearable device,LC add,Object
+filter,LC add,Object
+video game,LC add,Object
+interface,LC add,Object
+website,Liz add,Object
+smart products,Liz add,Object
+video game,Liz add,Object
+*something else*,,Terrain
+wildcard,topic or location of your choice,Terrain
+pandemic,wpws,Terrain
+technology,wpws,Terrain
+climate change,wpws,Terrain
+globalization,wpws,Terrain
+North Carolina,wpws,Terrain
+ocean,wpws,Terrain
+mountains,wpws,Terrain
+tourism,wpws,Terrain
+transportation,wpws,Terrain
+suburb,wpws,Terrain
+population,wpws,Terrain
+city,wpws,Terrain
+atmosphere,wpws,Terrain
+university,wpws,Terrain
+International Space Station,wpws,Terrain
+agriculture,,Terrain
+the brain,,Terrain
+childhood,,Terrain
+citizenship ,,Terrain
+class,,Terrain
+climate,,Terrain
+cloning,,Terrain
+communications,,Terrain
+court,,Terrain
+disease,,Terrain
+drones,,Terrain
+the economy,,Terrain
+education,,Terrain
+entertainment,,Terrain
+environment,,Terrain
+equality,,Terrain
+family,,Terrain
+fashion,,Terrain
+flight,,Terrain
+forest,,Terrain
+genetics,,Terrain
+gender,,Terrain
+governance,,Terrain
+health,,Terrain
+hobbies,,Terrain
+home,,Terrain
+identity,,Terrain
+insects,,Terrain
+intellectual property,,Terrain
+journalism,,Terrain
+justice,,Terrain
+learning,,Terrain
+memory,,Terrain
+mining,,Terrain
+the moon,,Terrain
+music,,Terrain
+oceans,,Terrain
+oil,,Terrain
+old age,,Terrain
+pets,,Terrain
+power,,Terrain
+religion,,Terrain
+robots,,Terrain
+sex,,Terrain
+shopping,,Terrain
+space,,Terrain
+sports,,Terrain
+theatre,,Terrain
+travel,,Terrain
+war,,Terrain
+water,,Terrain
+weath,,Terrain
+work,,Terrain
+zombies,,Terrain
+the zoo,,Terrain
+algorithm,LC add,Terrain
+data,LC add,Terrain
+colonization,LC add,Terrain
+democracy,LC add,Terrain
+biometrics,LC add,Terrain
+panopticon,LC add,Terrain
+social movement,Liz add,Terrain
+misinformation,Liz add,Terrain
+distorted worldview,Liz add,Terrain
+anonymity,Liz add,Terrain
+surveillance,Liz add,Terrain
+privacy,Liz add,Terrain
+cultural appropriation,Liz add,Terrain
+artificial intelligence,Liz add,Terrain
+infinite capitalism,Liz add,Terrain
+revolutionary optimism,Liz add,Terrain
